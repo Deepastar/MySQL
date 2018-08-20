@@ -1,0 +1,25 @@
+{
+  "name": "myonlinestore",
+  "version": "1.0.0",
+  "description": "**Concept**   Creating an Amazon-like storefront app with the MySQL",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepastar/myOnlineStore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepastar/myOnlineStore/issues"
+  },
+  "homepage": "https://github.com/Deepastar/myOnlineStore#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "install": "^0.12.1",
+    "mysql": "^2.16.0",
+    "request": "^2.88.0"
+  }
+}
