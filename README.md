@@ -3,8 +3,6 @@
 **Concept**  
 Creating an Amazon-like storefront app with the MySQL
 
-#"TO-DO"
-
 1. Creating a MySQL Database called `bamazon`.  
 
 2. Then creating table called `products` inside database.
