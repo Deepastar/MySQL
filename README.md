@@ -38,3 +38,5 @@ Creating an Amazon-like storefront app with the MySQL
 
 9. This is the screenshot of output window of this app ![ScreenShot](Capture.JPG)
 
+10. After the update. ![ScreenShot](resultdb.jpg)
+
