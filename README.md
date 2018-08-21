@@ -33,7 +33,7 @@ Creating an Amazon-like storefront app with the MySQL
 
    * If not, the app should log a phrase like `Insufficient quantity!`, and then prevent the order from going through.
 
-   * Output window of insufficient quantity ![ScreenShot](result1.jpg)
+   * Output window of insufficient quantity ![ScreenShot](result1.JPG)
 
 8. And finally this will update the database too.
 
